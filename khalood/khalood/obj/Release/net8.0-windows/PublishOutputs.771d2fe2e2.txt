@@ -1,0 +1,5 @@
+C:\Users\pc\WinFormsAutoUpdate\khalood\khalood\bin\Release\net8.0-windows\app.publish\khalood.exe
+C:\Users\pc\WinFormsAutoUpdate\khalood\khalood\bin\Release\net8.0-windows\app.publish\khalood.dll
+C:\Users\pc\WinFormsAutoUpdate\khalood\khalood\bin\Release\net8.0-windows\app.publish\khalood.deps.json
+C:\Users\pc\WinFormsAutoUpdate\khalood\khalood\bin\Release\net8.0-windows\app.publish\khalood.runtimeconfig.json
+C:\Users\pc\WinFormsAutoUpdate\khalood\khalood\bin\Release\net8.0-windows\app.publish\khalood.pdb
